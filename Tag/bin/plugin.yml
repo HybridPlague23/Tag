@@ -1,0 +1,8 @@
+main: me.HybridPlague.Tag.Tag
+name: Tag
+version: 1.0
+author: HybridPlague
+
+commands:
+  Tag:
+  PTag:
